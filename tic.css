@@ -1,0 +1,37 @@
+.name h1{
+    font-size: 60px;
+    margin-left: 30%;
+}
+.name{
+    background-color: rgb(154, 194, 220);
+}
+*{
+    background-color: rgb(154, 194, 220);
+}
+.row {
+    height: 600px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left:30%;
+}
+#r1{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(14, 79, 107);
+    border-radius: 20px;
+    border-width: 2px;
+    font-size: 50px;
+   
+}
+#reset{
+    margin-top: 20px;
+    font-size: 60px;
+    margin-left: 43%;
+    border:none;
+    background-color: beige;
+    color: black;
+    border-radius: 20px;
+}
